@@ -1,12 +1,15 @@
 {
+  "id": "/a-mi-ritmo/",
   "name": "A mi ritmo — Salud femenina día a día",
   "short_name": "A mi ritmo",
   "description": "Registra tu ciclo, anticonceptivos, estudios médicos y agenda — todo privado, en tu celular.",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#FAF7F2",
   "theme_color": "#1F433E",
   "orientation": "portrait",
+  "categories": ["health", "lifestyle", "medical"],
   "icons": [
     {
       "src": "icon-192.png",
